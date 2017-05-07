@@ -6,6 +6,9 @@
 *.in*
 *.status
 *.log
+/m4
+/debian
+/.libs
 
 
 ### Autotools ###
