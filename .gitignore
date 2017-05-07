@@ -1,5 +1,7 @@
 
 # Flam3 specific files
+*.png
+*.jpeg
 *.pc
 *.in*
 *.status
